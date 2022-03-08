@@ -1,0 +1,9 @@
+store-miniprogram：这个是微信小程序直接导入微信开发工具就可以
+
+
+
+store-server：这个是服务端，在控制台输入node app.js就可以运行
+
+
+
+vue-store-master：这个是前台网页版商城，在控制台输入npm run sever就可以运行
