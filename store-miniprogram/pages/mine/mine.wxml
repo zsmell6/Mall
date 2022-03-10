@@ -16,11 +16,4 @@
   <i-cell title="我的订单" is-link url="/pages/orders/orders" class="space"></i-cell>
   <i-cell title="我的收藏" is-link url="/pages/collection/collection" class="space"></i-cell>
 
-  <i-cell title="会员中心" is-link class="space"></i-cell>
-  <i-cell title="我的优惠券" is-link></i-cell>
-  <i-cell title="我的F码" is-link></i-cell>
-  <i-cell title="我的红包" is-link></i-cell>
-
-  <i-cell title="在线客服" is-link class="space"></i-cell>
-  <i-cell title="设置" is-link></i-cell>
 </view>

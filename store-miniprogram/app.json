@@ -12,13 +12,13 @@
   ],
   "window": {
     "backgroundTextStyle": "dark",
-    "navigationBarBackgroundColor": "#ff6700",
-    "navigationBarTitleText": "小小米",
+    "navigationBarBackgroundColor": "#2e8b75",
+    "navigationBarTitleText": "电子商城",
     "navigationBarTextStyle": "white"
   },
   "tabBar": {
-    "color": "#8a8a8a",
-    "selectedColor": "#ff6700",
+    "color": "#2e8b75",
+    "selectedColor": "#2e8b75",
     "list": [
       {
         "pagePath": "pages/index/index",

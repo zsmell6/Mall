@@ -1,9 +1,5 @@
 <!--
  * @Description: 项目根组件
- * @Author: hai-27
- * @Date: 2020-02-07 16:23:00
- * @LastEditors: hai-27
- * @LastEditTime: 2020-04-05 13:14:48
  -->
 <template>
   <div id="app" name="app">
@@ -98,7 +94,7 @@
             </div>
           </div>
           <div class="github">
-            <a href="https://github.com/hai-27/vue-store" target="_blank">
+            <a href="https://github.com/zsmell6" target="_blank">
               <div class="github-but"></div>
             </a>
           </div>
@@ -148,7 +144,7 @@ export default {
         message: `
         <p>如果觉得这个项目还不错，</p>
         <p style="padding:10px 0">您可以给项目源代码仓库点Star支持一下，谢谢！</p>
-        <p><a href="https://github.com/hai-27/vue-store" target="_blank">Github传送门</a></p>`,
+        <p><a href="https://github.com/zsmell6" target="_blank">Github传送门</a></p>`,
         dangerouslyUseHTMLString: true,
         type: "success"
       });

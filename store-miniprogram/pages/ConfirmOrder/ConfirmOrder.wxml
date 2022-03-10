@@ -9,9 +9,9 @@
 </block>
 
 <i-cell title="收货地址" class="space"></i-cell>
-<i-cell label="姓名" title="陈家海" is-link></i-cell>
-<i-cell label="电话" title="135***8623" is-link></i-cell>
-<i-cell label="送至" title="广州市 白云区" is-link></i-cell>
+<i-cell label="姓名" title="张传忠" is-link></i-cell>
+<i-cell label="电话" title="17837758970" is-link></i-cell>
+<i-cell label="送至" title="南阳市 卧龙区" is-link></i-cell>
 
 <i-cell title="发票信息" class="space"></i-cell>
 <i-cell label="电子发票" title="个人" is-link></i-cell>

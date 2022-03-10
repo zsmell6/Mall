@@ -24,7 +24,7 @@
 <!-- 用户购买信息 -->
 <view class="info-list">
   <i-cell-group>
-    <i-cell label="送至" title="广州市 白云区" is-link></i-cell>
+    <i-cell label="送至" title="河南省 南阳市" is-link></i-cell>
     <i-cell label="已选" title="{{productInfo.product_name}}" is-link></i-cell>
   </i-cell-group>
 </view>
